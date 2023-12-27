@@ -75,4 +75,3 @@ class Villian(Air):
 vil1 = Villian('Грифит', 'Белый сокол', 'God', 40000, 'длань господня')
 vil1.crit()
 
-
